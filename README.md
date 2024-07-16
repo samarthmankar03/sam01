@@ -1,5 +1,5 @@
 # sam01
 first repo !!
 <br>
-made by - Samarth
+made by - Samarth Mankar
 
